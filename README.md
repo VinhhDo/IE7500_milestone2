@@ -1,4 +1,13 @@
-**Research and Selection of Methods
+## 📌 Project Model Development Overview
+
+Manually tracking earnings reports and market updates across dozens of live links is inefficient. This tool automates the entire text processing lifecycle:
+1. **Data Ingestion:** Reads source URLs dynamically from an Excel file tracker.
+2. **Web Scraping & Cleaning:** Extracts clean, relevant text from target web pages while bypassing HTML noise.
+3. **NLP Aggregation:** Passes clean text into a custom summarization model.
+4. **Sentiment Analysis:** Flags market sentiment for posive, neutral and negative.
+  
+  
+   **Research and Selection of Methods
 **
 
 The purpose of this project is to summarize lengthy financial reports into concise briefings to make them easier for people to read, thus making them more accessible. 
@@ -18,10 +27,4 @@ For our baseline summarization model, we used the facebook/bart-large-cnn transf
 
 In the future for this project, our dataset will include more examples, and we are working through fine tuning our classification methods. 
 
-## 📌 Project Model Development Overview
 
-Manually tracking earnings reports and market updates across dozens of live links is inefficient. This tool automates the entire text processing lifecycle:
-1. **Data Ingestion:** Reads source URLs dynamically from an Excel file tracker.
-2. **Web Scraping & Cleaning:** Extracts clean, relevant text from target web pages while bypassing HTML noise.
-3. **NLP Aggregation:** Passes clean text into a custom summarization model.
-4. **Sentiment Analysis:** Flags market sentiment for posive, neutral and negative.
