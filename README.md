@@ -2,10 +2,11 @@ Northeastern University
 
 IE7500
 
-Prema Parks, Vincent Do
+Group Members: Prema Parks, Vinh Do.
+
 
 Financial websites in original dataset blocked our automated scraping tools, we manually collected URLs and build the dataset. 
-The project pipeline is fully built to handle this text now, and we will extend the dataset with more URLs later.
+The project pipeline is fully built, and we will extend the dataset with more URLs later.
 
 ## 📌 Project Model Development Overview
 
