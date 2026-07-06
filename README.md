@@ -4,7 +4,7 @@ IE7500
 
 Prema Parks, Vincent Do
 
-Financial websites in original dataset blocked our automated scraping tools, we manually collected the article text for this submission. 
+Financial websites in original dataset blocked our automated scraping tools, we manually collected URLs and build the dataset. 
 The project pipeline is fully built to handle this text now, and we will extend the dataset with more URLs later.
 
 ## 📌 Project Model Development Overview
