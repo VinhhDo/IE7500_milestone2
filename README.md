@@ -1,3 +1,7 @@
+Northeastern University
+IE7500
+Prema Parks, Vincent Do
+
 ## 📌 Project Model Development Overview
 
 Manually tracking earnings reports and market updates across dozens of live links is inefficient. This tool automates the entire text processing lifecycle:
