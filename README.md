@@ -7,8 +7,7 @@ Manually tracking earnings reports and market updates across dozens of live link
 4. **Sentiment Analysis:** Flags market sentiment for posive, neutral and negative.
   
   
-   **Research and Selection of Methods
-**
+## 📌 Research and Selection of Methods
 
 The purpose of this project is to summarize lengthy financial reports into concise briefings to make them easier for people to read, thus making them more accessible. 
   The project will use NER to identify stock symbols, companies, and financial indicators, as well as a sentiment analysis to classify the news as positive, negative, or neutral. 
